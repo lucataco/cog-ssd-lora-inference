@@ -1,0 +1,4 @@
+__pycache
+.cog
+model-cache
+trained-model
