@@ -1,4 +1,5 @@
-__pycache
+__pycache__
 .cog
 model-cache
 trained-model
+trained_model.tar
